@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "Lab2\Lab2.csproj", "{E7FD916B-9C73-4E97-BB0E-09291498C140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2Lib", "Lab2Lib\Lab2Lib.csproj", "{477E31CD-DBD2-475A-AE71-D4A3E8BDC12B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FD916B-9C73-4E97-BB0E-09291498C140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FD916B-9C73-4E97-BB0E-09291498C140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FD916B-9C73-4E97-BB0E-09291498C140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FD916B-9C73-4E97-BB0E-09291498C140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477E31CD-DBD2-475A-AE71-D4A3E8BDC12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477E31CD-DBD2-475A-AE71-D4A3E8BDC12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477E31CD-DBD2-475A-AE71-D4A3E8BDC12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477E31CD-DBD2-475A-AE71-D4A3E8BDC12B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
